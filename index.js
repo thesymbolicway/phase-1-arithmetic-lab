@@ -1,2 +1,8 @@
+function multiply() {
+    const num1 = 31;
+  
+    return num1 * 2;
+  }
 
-// Write your code here
+  
+  multiply();
